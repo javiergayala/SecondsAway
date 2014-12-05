@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		D9D260AC1A323FF2006F2537 /* SecondsAwayTXT */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SecondsAwayTXT; sourceTree = BUILT_PRODUCTS_DIR; };
+		D9D260AC1A323FF2006F2537 /* SecondsAway */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SecondsAway; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9D260AF1A323FF2006F2537 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +49,7 @@
 		D9D260AD1A323FF2006F2537 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D9D260AC1A323FF2006F2537 /* SecondsAwayTXT */,
+				D9D260AC1A323FF2006F2537 /* SecondsAway */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D9D260AB1A323FF2006F2537 /* SecondsAwayTXT */ = {
+		D9D260AB1A323FF2006F2537 /* SecondsAway */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D9D260B31A323FF2006F2537 /* Build configuration list for PBXNativeTarget "SecondsAwayTXT" */;
+			buildConfigurationList = D9D260B31A323FF2006F2537 /* Build configuration list for PBXNativeTarget "SecondsAway" */;
 			buildPhases = (
 				D9D260A81A323FF2006F2537 /* Sources */,
 				D9D260A91A323FF2006F2537 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = SecondsAwayTXT;
+			name = SecondsAway;
 			productName = SecondsAwayTXT;
-			productReference = D9D260AC1A323FF2006F2537 /* SecondsAwayTXT */;
+			productReference = D9D260AC1A323FF2006F2537 /* SecondsAway */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D9D260A71A323FF2006F2537 /* Build configuration list for PBXProject "SecondsAwayTXT" */;
+			buildConfigurationList = D9D260A71A323FF2006F2537 /* Build configuration list for PBXProject "SecondsAway" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -108,7 +108,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D9D260AB1A323FF2006F2537 /* SecondsAwayTXT */,
+				D9D260AB1A323FF2006F2537 /* SecondsAway */,
 			);
 		};
 /* End PBXProject section */
@@ -203,21 +203,21 @@
 		D9D260B41A323FF2006F2537 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SecondsAway;
 			};
 			name = Debug;
 		};
 		D9D260B51A323FF2006F2537 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SecondsAway;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D9D260A71A323FF2006F2537 /* Build configuration list for PBXProject "SecondsAwayTXT" */ = {
+		D9D260A71A323FF2006F2537 /* Build configuration list for PBXProject "SecondsAway" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D9D260B11A323FF2006F2537 /* Debug */,
@@ -226,7 +226,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D9D260B31A323FF2006F2537 /* Build configuration list for PBXNativeTarget "SecondsAwayTXT" */ = {
+		D9D260B31A323FF2006F2537 /* Build configuration list for PBXNativeTarget "SecondsAway" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D9D260B41A323FF2006F2537 /* Debug */,
